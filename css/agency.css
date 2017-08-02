@@ -634,3 +634,13 @@ body {
 
 img#logo {
   width: 150px; }
+
+.image-container {
+  display: block;
+  width: 100%;
+  align-items: center;
+  position: relative;
+  padding-top: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 50% auto; }
